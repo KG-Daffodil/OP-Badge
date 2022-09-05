@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "http://thejeshgn.github.io/openbadge/issuer-organization.json",
+    "id": "http://KG-Daffodil.github.io/OP-Badge/issuer-organization.json",
     "type": "Issuer",
     "name": "Kanishk Daffodil",
     "url": "https://www.daffodilsw.com"
