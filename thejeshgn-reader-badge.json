@@ -1,14 +1,14 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://KG-Daffodil.github.io/OP-Badge/thejeshgn-reader-badge.json",
+    "id": "https://kg-daffodil.github.io/OP-Badge/thejeshgn-reader-badge.json",
     "recipient":
     {
         "type": "email",
         "hashed": false,
         "identity": "gkanishk67@gmail.com"
     },
-    "badge": "https://KG-Daffodil.github.io/OP-Badge/reader-badge.json",
+    "badge": "https://kg-daffodil.github.io/OP-Badge/reader-badge.json",
     "verification":
     {
         "type": "hosted"
