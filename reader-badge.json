@@ -5,7 +5,7 @@
     "name": "Reader",
     "description": "Reader of Kanishk.",
     "image": "https://thejeshgn.com/blog/wp-content/uploads/2014/07/thejeshgn_icon.png",
-    "criteria": "Just testing",
+    "criteria": "http://thejeshgn.com/subscribe",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
     "issuer": "https://kg-daffodil.github.io/OP-Badge/issuer-organization.json"
