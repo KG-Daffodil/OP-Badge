@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://KG-Daffodil.github.io/OP-Badge/reader-badge.json",
+    "id": "https://kg-daffodil.github.io/OP-Badge/reader-badge.json",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader of Kanishk.",
@@ -8,5 +8,5 @@
     "criteria": "Just testing",
     "tags": ["subscriber", "reader"],
     "alignment": [ ],
-    "issuer": "http://KG-Daffodil.github.io/OP-Badge/issuer-organization.json"
+    "issuer": "https://kg-daffodil.github.io/OP-Badge/issuer-organization.json"
 }
