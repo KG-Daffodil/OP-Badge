@@ -1,18 +1,18 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
     "type": "Assertion",
-    "id": "https://thejeshgn.github.io/openbadge/thejeshgn-reader-badge.json",
+    "id": "https://KG-Daffodil.github.io/OP-Badge/thejeshgn-reader-badge.json",
     "recipient":
     {
         "type": "email",
-        "hashed": true,
-        "identity": "sha256$2439c199971e44a07babc5854f5a7fae04028f1c85f492a70bddfa9f55d54130"
+        "hashed": false,
+        "identity": "gkanishk67@gmail.com"
     },
-    "badge": "https://thejeshgn.github.io/openbadge/reader-badge.json",
+    "badge": "https://KG-Daffodil.github.io/OP-Badge/reader-badge.json",
     "verification":
     {
         "type": "hosted"
     },
-    "issuedOn": "2022-06-17T23:59:59Z",
+    "issuedOn": "2022-09-05T15:18:00Z",
     "expires": "2030-06-30T23:59:59Z"
 }
