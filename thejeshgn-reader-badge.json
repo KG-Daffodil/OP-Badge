@@ -12,7 +12,5 @@
     "verification":
     {
         "type": "hosted"
-    },
-    "issuedOn": "2022-06-05T15:18:00Z",
-    "expires": "2030-06-30T23:59:59Z"
+    }
 }
